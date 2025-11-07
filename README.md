@@ -10,7 +10,7 @@
 * **Email:** [avselom@gmail.com](mailto:avselom@gmail.com)
 * **Phone:** [+212621943470](tel:+212621943470)
 * **GitHub:** `acsalim`
-* **Portfolio:** [avselom.me](avselom.me)
+* **Portfolio:** [avselom.me](https://avselom.me)
 
 ## 🔭 What I do
 
@@ -38,60 +38,59 @@ I build modern web apps and developer tools with a strong focus on performance, 
 
 ## 💼 Portfolio
 <details>
-<summary>Selected projects</summary>
+<summary>A selection of web projects showcasing product customization, 3D engines, dashboards, e-commerce platforms, and service websites.</summary>
 
 ### [Device Manager](https://drive.google.com/file/d/1nayLxZ9Yw26W4q5FkFFDGwKd0SwScAER/view)
-Système de gestion des appareils complet avec authentification des utilisateurs, surveillance en temps réel, suivi de la consommation d'énergie et rapports détaillés pour un suivi efficace des actifs.
+
+A complete device management system with user authentication, real-time monitoring, energy consumption tracking, and detailed reporting for efficient asset management.
 
 ---
 
 ### [Gobelets.com](https://3d.gobelets.com/)
-Plateforme web-to-print complète avec personnalisation canvas 2D/3D en temps réel, rendu et flux de commande automatisé — alliant créativité et précision de production.
+
+A full-featured web-to-print platform with real-time 2D/3D canvas customization, rendering, and automated order workflow — blending creativity with production precision.
 
 ---
 
 ### [Tossware](https://www.tossware.com/pages/customize)
-SPA e-commerce éco-responsable avec personnalisation de produits 3D interactive, aperçus en temps réel et une expérience utilisateur fluide et évolutive.
+
+An eco-friendly e-commerce SPA with interactive 3D product customization, real-time previews, and a smooth, scalable user experience.
 
 ---
 
 ### [C-Desk](https://desk.wobz.app/)
-Tableau de bord de gestion moderne et CRM avec analyses, filtrage intelligent et authentification multi-rôles sécurisée pour une visibilité opérationnelle complète.
+
+A modern management dashboard and CRM featuring analytics, smart filtering, and secure multi-role authentication for complete operational visibility.
 
 ---
 
 ### [ABXR Engine](https://www.niloom.ai/)
-Moteur 3D puissant pour la création de scènes en temps réel et l'édition de modèles, alliant performance WebGL et interface utilisateur intuitive pour des expériences de conception immersives.
+
+A powerful 3D engine for real-time scene creation and model editing — combining WebGL performance with an intuitive interface for immersive design experiences.
 
 ---
 
 ### [GrooveMail](https://groove.cm/mail)
-Module de campagne email robuste avec segmentation, analyses et pipelines de livraison asynchrones — conçu pour l'automatisation marketing à haut volume.
+
+A robust email campaign module with segmentation, analytics, and asynchronous delivery pipelines — built for high-volume marketing automation.
 
 ---
 
 ### [Saweblia](https://saweblia.ma)
-Plateforme intelligente de réparation et rénovation domiciliaire connectant clients et prestataires de confiance, avec réservation sécurisée et UX intuitive.
+
+An intelligent home repair and renovation platform connecting clients with trusted professionals — offering secure booking and an intuitive user experience.
 
 ---
 
 ### [WWAO Co-Space](https://wwao.ma/cospace)
-Site de coworking élégant avec plans d'adhésion et intégration de réservation, conçu pour la rapidité, la clarté et la narration de marque.
+
+A stylish coworking website featuring membership plans and integrated booking — crafted for speed, clarity, and strong brand storytelling.
 
 ---
 
 ### [Mazagan Art](https://mazaganart.com)
-Site web élégant d'association culturelle présentant des talents artistiques et des événements à travers des visuels vibrants et un design minimaliste.
 
----
-
-### [MegaCleaning](https://megacleaning.pro/)
-Site de service de nettoyage professionnel avec options de réservation et vitesse de chargement optimisée, conçu avec une esthétique UI propre et moderne.
-
----
-
-### [MegaRemodeling](https://megaremodeling.pro/)
-Site web stylé de rénovation domiciliaire présentant des galeries de projets et des aperçus de services, alliant narration visuelle et finition technique.
+A refined cultural association website showcasing artistic talents and events through vibrant visuals and a minimalist design aesthetic.
 </details>
 
 ## ⚡ Interests
